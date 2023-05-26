@@ -282,9 +282,9 @@ version = "0.3.14"
 
 [[deps.FerriteCohesiveZones]]
 deps = ["Ferrite"]
-git-tree-sha1 = "f7d73116675c31af56bd9c3a8283b2ba762903f4"
-repo-rev = "main"
-repo-url = "https://github.com/termi-official/FerriteCohesiveZones.jl/"
+git-tree-sha1 = "7d64857b6233fa02a6c0dbe27f8e94e4411ed2b4"
+repo-rev = "do/update-ferrite-0.3.14"
+repo-url = "https://github.com/termi-official/FerriteCohesiveZones.jl"
 uuid = "2c75c34f-bb04-4a69-9a35-bf0e3f64ecf6"
 version = "0.1.0"
 
